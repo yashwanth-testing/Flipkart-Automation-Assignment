@@ -1,14 +1,22 @@
-Project: Flipkart Automation
+# Flipkart Automation Project
 
-Steps to Run:
+## Description
+Automation testing using Selenium WebDriver for Flipkart website.
+
+## Steps to Run
 1. Open project in Eclipse
-2. Ensure ChromeDriver is configured
+2. Configure ChromeDriver path
 3. Run FlipKart_Assignment.java
 
-Scenarios Covered:
-- Product available → added to cart
-- Product unavailable → handled properly
+## Scenarios Covered
+- Search Bluetooth Speakers
+- Apply filters (boAt, 4★ & above)
+- Sort by Price Low to High
+- Open first product
+- Count available offers
+- Add to cart if available
+- Take screenshot
 
-Output:
+## Output
 - cart_result.png
 - result.png
